@@ -1,0 +1,48 @@
+.bg-container {
+  background-color: #07080c;
+  padding: 15px;
+  color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.speedometer-image {
+  width: 60vw;
+}
+
+.speed-text {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.speed-limits {
+  font-size: 13px;
+  margin: 20px;
+}
+
+.heading {
+  margin: 5px;
+}
+
+.button {
+  font-size: 12px;
+  padding: 6px 12px;
+  border-radius: 5px;
+  margin: 5px 10px;
+  color: #ffffff;
+}
+
+.accelerate-button {
+  background-color: #0b69ff;
+  border-width: 1px;
+  border-color: #0b69ff;
+}
+
+.break-button {
+  background-color: transparent;
+  border-width: 1px;
+  border-color: #ffffff;
+}
